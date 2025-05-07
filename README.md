@@ -19,7 +19,7 @@
 ###
 
 <p align="left">Explore my latest web development projects, showcasing my expertise in front-end and back-end technologies, user interface design, and performance optimization.</p>
-<a href="[akram-ahil.vercel.app](https://akram-ahil.vercel.app/)" > akram-ahil.vercel.app </a>
+<a href="https://akram-ahil.vercel.app/" > akram-ahil.vercel.app </a>
 
 ###
 
