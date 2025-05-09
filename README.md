@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating software (and occasional bugs 😅) since: 2023<br>🔭 I’m currently working on School system managment <br>📚 Currently learning: DevOps, TypeScript, Docker, Cloud Computing.<br>🎯 Goals: Grow as a software engineer, contribute to open source, and build impactful products.<br>🎲 Fun fact: I enjoy exploring tech tools and automating everyday tasks!</p>
+<p align="left">✨ Creating websites (and occasional bugs 😅) since: 2023<br>🔭 I’m currently working on School system managment <br>📚 Currently learning: DevOps, TypeScript, Docker, Cloud Computing.<br>🎯 Goals: Grow as a software engineer, contribute to open source, and build impactful products.<br>🎲 Fun fact: I enjoy exploring tech tools and automating everyday tasks!</p>
 
 ###
 
